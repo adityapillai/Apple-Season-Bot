@@ -28,7 +28,6 @@ def customGrab(box):
 def main():
     start()
     time.sleep(0.5)
-    screenGrab()
     while(True):
         mousePos((find(),474))
         
